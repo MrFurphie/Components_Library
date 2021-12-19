@@ -1,0 +1,1 @@
+For some reason I couldn't figure out why certain components weren't working at the time.
