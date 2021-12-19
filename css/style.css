@@ -168,3 +168,19 @@ Note that we use `flex-direction: row-reverse` on the container
                                                                                     /* For selected radio */
                                                                                     background-color: #00449e;
                                                                                 }
+                                                                                .container {
+                                                                                                        /* Background */
+                                                                                                        background-color: #ccc;
+                                                                                                        background-image: radial-gradient(#fff 50%, transparent 50%);
+                                                                                                        background-position: -5px -5px;
+                                                                                                        background-repeat: repeat;
+                                                                                                        background-size: 10px 10px;
+
+                                                                                                        /* Spacing */
+                                                                                                        padding: 5px;
+                                                                                                    }
+
+                                                                                                    .container__inner {
+                                                                                                        /* Background */
+                                                                                                        background-color: #ccc;
+                                                                                                    }
